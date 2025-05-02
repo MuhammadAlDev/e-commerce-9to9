@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_kirim</name>
+   <tag></tag>
+   <elementGuidId>9e165670-1dc1-4f5e-b5b9-98b513aa4bb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss351.MuiButton-containedPrimary > span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/form/div[4]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;kirim&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>748d7486-6b63-4aff-8ff8-de30cd1b96f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>51cb1e0c-1f97-44c3-b966-619f8522a258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kirim</value>
+      <webElementGuid>906e14ea-f472-4470-a8ba-652754943572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss342 row&quot;]/div[@class=&quot;col-md-6 col-xs-12&quot;]/div[@class=&quot;jss343&quot;]/form[1]/div[@class=&quot;jss366 jss368&quot;]/div[@class=&quot;jss369&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss351 MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>cbf66b9b-94fa-4b25-8689-cdc1fe89a848</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/form/div[4]/div/button/span</value>
+      <webElementGuid>6e134f20-1f7c-4118-ba0f-7981ef487c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[1]</value>
+      <webElementGuid>9701f844-6af6-45f6-bf3d-1dc40f7933be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[2]</value>
+      <webElementGuid>0b57b521-b2d9-4978-a00f-bc19b2e340f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANDA BARU DI 9to9?'])[1]/preceding::span[7]</value>
+      <webElementGuid>7056eef8-eafd-45be-9e05-848190bfba0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+      <webElementGuid>71ae8b12-bf75-4268-99c2-9d8391509e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'kirim' or . = 'kirim')]</value>
+      <webElementGuid>ce68ea97-d013-4b79-9885-1d6126a87aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

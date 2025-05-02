@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_44</name>
+   <tag></tag>
+   <elementGuidId>e21de3ff-0280-40f0-ba76-38ceef132aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div[2]/div[3]/div[3]/div[3]/div[3]/div/div[2]/div[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=radiogroup >> internal:text=&quot;44&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b439323-e2f7-42e7-b605-1a0845ee0fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss588 jss591 jss599 jss602 jss582 jss595 jss807 avenir-medium MuiTypography-caption MuiTypography-alignLeft</value>
+      <webElementGuid>3fab8466-8a4b-466e-b60b-20c11e4d5d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>06ec6f67-232f-4f72-b884-8c6f627da3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss516&quot;]/div[@class=&quot;jss517&quot;]/div[@class=&quot;jss524&quot;]/div[@class=&quot;hidden-mobile&quot;]/div[@class=&quot;hidden-mobile&quot;]/div[@class=&quot;jss720&quot;]/div[@class=&quot;jss795 jss781&quot;]/div[@class=&quot;MuiFormGroup-root jss797 jss783 jss798&quot;]/div[@class=&quot;jss801 jss805 jss791&quot;]/span[@class=&quot;MuiTypography-root jss588 jss591 jss599 jss602 jss582 jss595 jss807 avenir-medium MuiTypography-caption MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>4fee9f03-6757-4aa3-baea-0fe85455e1c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div[2]/div[3]/div[3]/div[3]/div[3]/div/div[2]/div[5]/span</value>
+      <webElementGuid>8beeb817-f443-44e6-a514-5c921f66980b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[2]/following::span[5]</value>
+      <webElementGuid>ff23e30c-1e30-4389-8f4c-26f5da59147c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 959,200'])[4]/following::span[6]</value>
+      <webElementGuid>dbd193b0-24a6-4dbd-b29a-214d9be3f8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal :'])[2]/preceding::span[1]</value>
+      <webElementGuid>91315924-be6e-4ee4-ac64-c40e850634c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 959,200'])[5]/preceding::span[2]</value>
+      <webElementGuid>8e0eb487-dad3-446e-99ff-8b3fde92f8d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[5]/span</value>
+      <webElementGuid>bb456985-a0df-46c3-ba35-ce9c928d1731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '44' or . = '44')]</value>
+      <webElementGuid>0b7f6c9e-8767-4546-905e-ef045c810e3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

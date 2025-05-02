@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Home</name>
+   <tag></tag>
+   <elementGuidId>c0cbed43-5a6a-47a7-b4d1-41c9483dfdc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss1857.jss1858.jss1868.jss1871.jss1851.jss1864.jss1850.MuiTypography-body1.MuiTypography-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=/^Home$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f74c6c11-ecc9-4b5f-9fe4-78838094911c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss1857 jss1858 jss1868 jss1871 jss1851 jss1864 jss1850 MuiTypography-body1 MuiTypography-alignLeft</value>
+      <webElementGuid>302f70da-a4c1-41c2-a2e9-ef00f2d32bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>74deca44-dc70-47e6-9537-df07d9baedbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss1785&quot;]/div[@class=&quot;hidden-mobile&quot;]/nav[@class=&quot;MuiTypography-root MuiBreadcrumbs-root jss1849 MuiTypography-body1 MuiTypography-colorTextSecondary&quot;]/ol[@class=&quot;MuiBreadcrumbs-ol&quot;]/li[@class=&quot;MuiBreadcrumbs-li&quot;]/a[@class=&quot;MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorSecondary&quot;]/p[@class=&quot;MuiTypography-root jss1857 jss1858 jss1868 jss1871 jss1851 jss1864 jss1850 MuiTypography-body1 MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>5273e032-361d-4e1f-9314-dd6e5f402b90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      <webElementGuid>15da98bd-1420-444f-84b1-bfef94133f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[1]/following::p[1]</value>
+      <webElementGuid>dedec5dd-7c5a-4127-ba26-cea6a401af15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoya'])[1]/following::p[1]</value>
+      <webElementGuid>b62c73f5-f552-4d0d-8712-6659e707d2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elainne In Tan'])[3]/preceding::p[2]</value>
+      <webElementGuid>ab0e7636-8f0c-4650-b942-d4916934ae8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>a91c4e9b-7c73-46fe-9ec6-43ed4c3cf9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ed7889ad-905d-4c7f-b58a-a49cae0577ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>7f789842-9940-4858-b740-50f1d7e26a28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

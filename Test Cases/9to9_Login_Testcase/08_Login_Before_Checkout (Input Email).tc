@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_Login_Before_Checkout (Input Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9072ded8-cc61-45df-ad74-c58740a139a2</testCaseGuid>
+</TestCaseEntity>

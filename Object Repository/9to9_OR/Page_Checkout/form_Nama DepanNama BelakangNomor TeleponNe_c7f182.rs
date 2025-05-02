@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Nama DepanNama BelakangNomor TeleponNe_c7f182</name>
+   <tag></tag>
+   <elementGuidId>c3e0cd6d-a75e-45a2-9944-5cdff6eb2a51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formAddressInputContainer']/form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Nama DepanNama BelakangNomor TeleponNegaraNegaraBagian / ProvinsiBagian / Provin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>3697a6c3-4129-4312-9b7b-ba29f9207ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>new-password</value>
+      <webElementGuid>f075598b-002c-4970-b7e9-6c8e0f1c0a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-form-interact-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>605ac92e-752c-44b2-9a93-9d2a08f03fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Depan​Nama Belakang​Nomor Telepon​NegaraNegaraBagian / ProvinsiBagian / ProvinsiKotaKotaKecamatan​Kode Pos​Pastikan kode pos yang kamu gunakan sesuai dengan alamatmuDetail Alamat​Atur titik pin lokasi untuk opsi pengiriman instanGunakan sebagai defaultSaya yakin bahwa pinpoint pada peta cocok dengan alamat saya. Segala bentuk kesalahan dalam pengiriman dikarenakan kesalahan pada pemilihan pinpoint bukan menjadi tanggung jawab marketplace.Simpan</value>
+      <webElementGuid>b71ea298-8e82-4320-9248-393c0dcbec82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formAddressInputContainer&quot;)/form[1]</value>
+      <webElementGuid>60dfb7b1-0f19-49bf-b547-bc877c52cbb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formAddressInputContainer']/form</value>
+      <webElementGuid>0344ef80-b7fe-416e-9815-29eb44213a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat baru'])[1]/following::form[1]</value>
+      <webElementGuid>64172267-d2b0-434e-b698-e952465c55fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk with Nina'])[1]/following::form[1]</value>
+      <webElementGuid>554ab474-ec70-42a1-841c-22f12a5c7940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>117649a9-a4f6-4145-9204-57dd15e22ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Nama Depan​Nama Belakang​Nomor Telepon​NegaraNegaraBagian / ProvinsiBagian / ProvinsiKotaKotaKecamatan​Kode Pos​Pastikan kode pos yang kamu gunakan sesuai dengan alamatmuDetail Alamat​Atur titik pin lokasi untuk opsi pengiriman instanGunakan sebagai defaultSaya yakin bahwa pinpoint pada peta cocok dengan alamat saya. Segala bentuk kesalahan dalam pengiriman dikarenakan kesalahan pada pemilihan pinpoint bukan menjadi tanggung jawab marketplace.Simpan' or . = 'Nama Depan​Nama Belakang​Nomor Telepon​NegaraNegaraBagian / ProvinsiBagian / ProvinsiKotaKotaKecamatan​Kode Pos​Pastikan kode pos yang kamu gunakan sesuai dengan alamatmuDetail Alamat​Atur titik pin lokasi untuk opsi pengiriman instanGunakan sebagai defaultSaya yakin bahwa pinpoint pada peta cocok dengan alamat saya. Segala bentuk kesalahan dalam pengiriman dikarenakan kesalahan pada pemilihan pinpoint bukan menjadi tanggung jawab marketplace.Simpan')]</value>
+      <webElementGuid>34247320-a127-4f25-a0d4-9cbeb3e8d7f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

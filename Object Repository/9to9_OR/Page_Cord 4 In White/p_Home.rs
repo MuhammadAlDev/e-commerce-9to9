@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Home</name>
+   <tag></tag>
+   <elementGuidId>26306db6-29da-4016-8507-2f8ebde94ab8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss2356.jss2357.jss2367.jss2370.jss2350.jss2363.jss2349.MuiTypography-body1.MuiTypography-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=/^Home$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b60a7fd6-7a7e-45da-ab74-9e29bc45aa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss2356 jss2357 jss2367 jss2370 jss2350 jss2363 jss2349 MuiTypography-body1 MuiTypography-alignLeft</value>
+      <webElementGuid>3cb65a29-f9f4-4122-a7ac-12ae4bf7fe23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>02c1d3f3-634b-447d-91d3-ae61bf2d91a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss2284&quot;]/div[@class=&quot;hidden-mobile&quot;]/nav[@class=&quot;MuiTypography-root MuiBreadcrumbs-root jss2348 MuiTypography-body1 MuiTypography-colorTextSecondary&quot;]/ol[@class=&quot;MuiBreadcrumbs-ol&quot;]/li[@class=&quot;MuiBreadcrumbs-li&quot;]/a[@class=&quot;MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorSecondary&quot;]/p[@class=&quot;MuiTypography-root jss2356 jss2357 jss2367 jss2370 jss2350 jss2363 jss2349 MuiTypography-body1 MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>6202627f-3f33-4597-9aec-66f047a0a5d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      <webElementGuid>d3f162a3-e74a-4c2e-bf00-89a466362b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[1]/following::p[1]</value>
+      <webElementGuid>9020dadc-7be0-4cef-8668-d249e9c59a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoya'])[1]/following::p[1]</value>
+      <webElementGuid>ad87c3d5-a1a1-4fb2-b50e-c99c5d0c5d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cord 4 In White'])[3]/preceding::p[3]</value>
+      <webElementGuid>005329db-0db7-436f-84a1-530e82b51ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>66d325a2-3c51-4b70-b0d5-5eff8090ce7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>7e2f9af4-5274-434e-adc3-c8e1d132f048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>529e6a2a-3a36-4376-bba4-0fd92bf10d6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

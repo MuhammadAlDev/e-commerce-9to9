@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Show_Product_Detail_From_New_Arrival</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a2400bd-96d6-4f52-88cb-58dbe11428b5</testCaseGuid>
+</TestCaseEntity>

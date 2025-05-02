@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_38</name>
+   <tag></tag>
+   <elementGuidId>d98e8fd9-e3ba-4ae3-850a-a51d032c422a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.hidden-mobile > div.jss762 > div.jss809.jss795 > div.MuiFormGroup-root.jss811.jss797.jss812 > div.jss815.jss819.jss805</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div[2]/div[3]/div[3]/div[3]/div[3]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=radiogroup >> div >> internal:has-text=&quot;38&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6ba9a17-0b7a-42ec-bf6f-05745e47be4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss815 jss819 jss805</value>
+      <webElementGuid>c5c06bfd-b991-46e8-9737-0e12e7fd42a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>38</value>
+      <webElementGuid>c9a6e72a-112c-4e11-b48f-166ca07b588d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss558&quot;]/div[@class=&quot;jss559&quot;]/div[@class=&quot;jss566&quot;]/div[@class=&quot;hidden-mobile&quot;]/div[@class=&quot;hidden-mobile&quot;]/div[@class=&quot;jss762&quot;]/div[@class=&quot;jss809 jss795&quot;]/div[@class=&quot;MuiFormGroup-root jss811 jss797 jss812&quot;]/div[@class=&quot;jss815 jss819 jss805&quot;]</value>
+      <webElementGuid>76af04aa-cee8-4777-b231-b75e67b17a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div[2]/div[3]/div[3]/div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>9afec355-0e7d-48c8-ade0-0aef01657ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[2]/following::div[2]</value>
+      <webElementGuid>ed8964a5-29e4-4068-9910-806f79b69066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 399,500'])[4]/following::div[5]</value>
+      <webElementGuid>f54b2bae-c07e-4d94-bbdc-562ceee4717f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal :'])[2]/preceding::div[3]</value>
+      <webElementGuid>6e1fa2ff-336f-44de-a9a5-cdfbd3ce1f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 399,500'])[5]/preceding::div[3]</value>
+      <webElementGuid>83a6a038-61df-44ea-a62d-9fc3ce2cd6e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>6e7448e8-8b59-4b57-85ff-dee6826fd95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '38' or . = '38')]</value>
+      <webElementGuid>09c983d7-d759-4275-9f7a-fc9ad31091be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

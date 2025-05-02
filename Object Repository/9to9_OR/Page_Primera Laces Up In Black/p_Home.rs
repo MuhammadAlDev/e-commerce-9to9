@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Home</name>
+   <tag></tag>
+   <elementGuidId>11232686-1212-4ebe-a38b-8ff6d8573bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.jss588.jss589.jss599.jss602.jss582.jss595.jss581.MuiTypography-body1.MuiTypography-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=/^Home$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2f8aed4d-6904-4dc7-8618-c3acc13c455a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss588 jss589 jss599 jss602 jss582 jss595 jss581 MuiTypography-body1 MuiTypography-alignLeft</value>
+      <webElementGuid>7ad8dafc-3c4f-4f92-8251-3b98615f6cdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>37be6749-3779-478a-82b4-14b8822d37b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;jss516&quot;]/div[@class=&quot;hidden-mobile&quot;]/nav[@class=&quot;MuiTypography-root MuiBreadcrumbs-root jss580 MuiTypography-body1 MuiTypography-colorTextSecondary&quot;]/ol[@class=&quot;MuiBreadcrumbs-ol&quot;]/li[@class=&quot;MuiBreadcrumbs-li&quot;]/a[@class=&quot;MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorSecondary&quot;]/p[@class=&quot;MuiTypography-root jss588 jss589 jss599 jss602 jss582 jss595 jss581 MuiTypography-body1 MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>d36761d4-5b56-401b-ae4b-946d4be5d45d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/nav/ol/li/a/p</value>
+      <webElementGuid>301d5624-2b10-4f5c-a2ce-d062e0392023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom'])[1]/following::p[1]</value>
+      <webElementGuid>e167e0fa-6312-4f79-9c8c-3c2dbad2f211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoya'])[1]/following::p[1]</value>
+      <webElementGuid>46c99d12-9886-4b91-9054-0cacfe4ad74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primera Laces Up In Black'])[3]/preceding::p[2]</value>
+      <webElementGuid>e48f6a5e-2293-495e-bfd8-e431c38105a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>e3e78843-83b7-42d6-8ddb-b15c6ebf08d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>46a2ec6f-235f-4021-905d-8a360729ba21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>2ae42e49-7287-4b4c-a03d-901fe8ec3ff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

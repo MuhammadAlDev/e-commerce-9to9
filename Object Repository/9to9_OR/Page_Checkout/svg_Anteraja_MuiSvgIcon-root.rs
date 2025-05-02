@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Anteraja_MuiSvgIcon-root</name>
+   <tag></tag>
+   <elementGuidId>348c37c0-7ed2-4295-86c8-115088bd57f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#panel-Anteraja > div.MuiButtonBase-root.MuiIconButton-root.MuiAccordionSummary-expandIcon.MuiIconButton-edgeEnd > span.MuiIconButton-label > svg.MuiSvgIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Anteraja'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Anteraja&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f402879c-6e17-45a5-b9a3-70eaa6549f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root</value>
+      <webElementGuid>856bc9bc-6b92-45fe-9a6a-df54a0039d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8f71d52c-5672-44bc-b314-d590f1455d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>e4a489fe-9aba-46aa-901c-c2d8fd97c554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>44e7e550-d825-4e9f-ab01-312861e58b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutShipping&quot;)/div[@class=&quot;jss416&quot;]/div[@class=&quot;MuiPaper-root MuiAccordion-root jss573 Mui-expanded jss574 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiCollapse-container MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/div[@id=&quot;panel1d-content&quot;]/div[@class=&quot;MuiAccordionDetails-root jss578&quot;]/fieldset[@class=&quot;MuiFormControl-root&quot;]/div[@class=&quot;MuiFormGroup-root&quot;]/div[1]/div[@class=&quot;MuiPaper-root MuiAccordion-root jss573 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@id=&quot;panel-Anteraja&quot;]/div[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon MuiIconButton-edgeEnd&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>fccc3bdc-3222-4d43-ab4a-399bc02f3c2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anteraja'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8726efb6-263d-400e-908e-92c3d891e037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transmarco'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>5ff59488-cb81-4e39-bbe8-9dda559459e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REG - IDR 0'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>50684689-1561-44fc-9cea-f506b31a895a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JNE'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>97512456-eea1-489e-8b05-6e337ace8d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

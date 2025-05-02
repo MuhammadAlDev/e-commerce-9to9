@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>69cb2703-9566-4e11-a201-9dbe01306fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiBadge-root.jss856 > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4d0243f5-96b5-4bff-a4a5-a6f6bf150b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>89ec87b9-9740-4bbe-8fd6-a3a4196ac87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>22.763</value>
+      <webElementGuid>84a95bb9-ecd1-40f0-8dbe-99bc37d5522d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>21.735</value>
+      <webElementGuid>4b38f7b5-fbd1-4332-8017-536334fcbe2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 22.763 21.735</value>
+      <webElementGuid>b79b8c54-d54a-4b26-be98-514db00b77f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/main[@class=&quot;jsx-2371353177 header-main-container&quot;]/div[@class=&quot;jsx-2371353177 header-main&quot;]/div[@class=&quot;jsx-2371353177 header-middle&quot;]/div[@class=&quot;jsx-2371353177 header-middle__right hidden-mobile&quot;]/div[@class=&quot;jsx-2371353177 header-middle__item hidden-mobile&quot;]/div[@class=&quot;jsx-2371353177 header-middle__icon&quot;]/a[@class=&quot;jsx-2371353177&quot;]/div[1]/span[@class=&quot;MuiBadge-root jss856&quot;]/svg[1]</value>
+      <webElementGuid>6aa8e17b-b8ed-44af-8352-5fa1104d707a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>86210775-c89d-4608-89dd-cc29c35ba2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TENTANG 9to9'])[1]/following::*[name()='svg'][6]</value>
+      <webElementGuid>c30230ae-4fad-4ccf-a44c-dae31c70bd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HI, GUEST'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>fcbe602d-aa93-483a-bd6f-bc83ec38b13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a5315ee1-e278-490a-887d-4d75340a8c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

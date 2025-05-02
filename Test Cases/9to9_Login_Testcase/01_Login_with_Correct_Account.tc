@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Login_with_Correct_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9dfdb705-26c9-49fd-a77e-7540cff30c3d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Show_Product_Detail_From_SubCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a9bd2e3-93cf-4853-8f8a-895f66f43c9b</testCaseGuid>
+</TestCaseEntity>

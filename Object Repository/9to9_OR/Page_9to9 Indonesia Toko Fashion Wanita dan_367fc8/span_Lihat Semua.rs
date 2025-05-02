@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lihat Semua</name>
+   <tag></tag>
+   <elementGuidId>c2a06794-db52-455f-86f3-35a69f1b9597</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[9]/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(11) > .pwa-product-list > .pwa-subsection-header > .pwa-subsection-more</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>475388a6-5fe2-4acf-8b1f-ab62931c33a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pwa-subsection-more-text avenir-medium text-color-orange</value>
+      <webElementGuid>b666cb88-c227-46bf-981f-d8e2d3662dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>c2d540f7-831a-4747-ad03-2af22d7e48c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@id=&quot;maincontent&quot;]/main[@id=&quot;maincontent&quot;]/div[2]/div[@class=&quot;pwa-homepage-content&quot;]/div[@class=&quot;pwa-product-list-section&quot;]/div[@class=&quot;pwa-product-list&quot;]/div[@class=&quot;pwa-subsection-header&quot;]/a[@class=&quot;pwa-subsection-more pwa-link&quot;]/span[@class=&quot;pwa-subsection-more-text avenir-medium text-color-orange&quot;]</value>
+      <webElementGuid>cba98139-ec34-4823-974e-28ec9c640f6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[9]/div/div/a/span</value>
+      <webElementGuid>2f61d5ef-a4f5-4fcd-a65a-f79228bf84bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELANJA'])[2]/following::span[1]</value>
+      <webElementGuid>6c74dbce-1151-4c88-adad-dff297de741a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 148,000'])[1]/preceding::span[22]</value>
+      <webElementGuid>886b16fb-538d-415e-ba79-4a0f81b325c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 118,001'])[1]/preceding::span[23]</value>
+      <webElementGuid>8ca9bc0b-e3ec-4eb8-b661-042cad9b8187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/a/span</value>
+      <webElementGuid>69cbac7c-7486-485a-b9fd-bf9c31f46f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>ec93829e-c0cd-4b81-900a-85c548281ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[8]/div/div/a/span</value>
+      <webElementGuid>dd52a76d-a1c0-46e8-a69d-0093d1e64415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BELANJA'])[1]/following::span[1]</value>
+      <webElementGuid>aa3adbb0-5777-458d-bdb1-c6e530f84d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 1,299,000'])[1]/preceding::span[21]</value>
+      <webElementGuid>faaf859b-2b62-4fb0-9396-ec5f86157123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 1,299,000'])[2]/preceding::span[23]</value>
+      <webElementGuid>68db3c71-6fdd-4d7e-a372-618bb6bbcd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/a/span</value>
+      <webElementGuid>e61faee5-dbc1-40ca-b1a0-cd12e9580cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[6]/div/div/a/span</value>
+      <webElementGuid>69e9073a-32b6-461e-a725-6e9e0ae7d14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRAND PILIHAN'])[1]/following::span[2]</value>
+      <webElementGuid>3d36b42e-4fb5-4b40-a881-fb9e274c397a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[3]/following::span[3]</value>
+      <webElementGuid>271d3c90-9d25-4fbe-b293-f6ebdd3c29d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCOUNT UP TO 80%'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ba1ab13-0b8c-4361-9dff-9d65959e2834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCOUNT UP TO 89%'])[1]/preceding::span[1]</value>
+      <webElementGuid>c7f529e6-6f29-4cb7-bdd1-3546cf51de7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/a/span</value>
+      <webElementGuid>05e08111-b4b9-4eb1-909e-e1ae3e850713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='pwa-flash-sale-one']/div/div/a/span)[2]</value>
+      <webElementGuid>4d5ff4bf-b734-4f8c-ae0e-8efad816591f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RECOMMENDED FOR YOU'])[1]/following::span[1]</value>
+      <webElementGuid>d5f7a823-d4cb-4f8b-9e57-f84d365b96e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 719,200'])[3]/following::span[2]</value>
+      <webElementGuid>0d275488-a703-4ca6-a46b-6e9e11e8e272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 899,000'])[7]/preceding::span[21]</value>
+      <webElementGuid>6e373741-61c2-4ab3-9dc3-65c2eb610318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 799,000'])[1]/preceding::span[21]</value>
+      <webElementGuid>9ba21ec3-66dd-425b-a58c-b56f1570aa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/span</value>
+      <webElementGuid>d56ec4ad-1577-4547-850b-ec27b3a94c52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

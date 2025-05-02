@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Show_Product_Detail_From_Recomendation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e45e334-6253-4a4b-a1f1-17629daea22b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Checkout_1</name>
+   <tag></tag>
+   <elementGuidId>461245d5-0caa-41f3-b55e-2e95c10e8ea7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss321.MuiButton-containedPrimary > span.MuiButton-label > span.MuiTypography-root.jss17.jss20.jss26.jss31.jss12.jss21.MuiTypography-caption.MuiTypography-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSummary']/div/div/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Checkout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c12ebd71-68da-4563-a967-4b0bd357a59a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss17 jss20 jss26 jss31 jss12 jss21 MuiTypography-caption MuiTypography-alignLeft</value>
+      <webElementGuid>060a4253-1b98-42ae-8f94-66cd8b894c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout</value>
+      <webElementGuid>f3793d25-4056-4bae-8148-1aa915791654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSummary&quot;)/div[@class=&quot;jss298 jss299&quot;]/div[@class=&quot;jss301&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss321 MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;MuiTypography-root jss17 jss20 jss26 jss31 jss12 jss21 MuiTypography-caption MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>42575625-6971-4821-a7fe-d584716a56dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSummary']/div/div/button/span/span</value>
+      <webElementGuid>b1c1a697-041a-48b1-b1ac-25d9cfa58926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 959,200'])[8]/following::span[2]</value>
+      <webElementGuid>e0c2ddc0-cf50-421d-842f-3c14328bbf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::span[2]</value>
+      <webElementGuid>8a7a620d-5c00-4416-a2e8-defc8dcc1308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANDA BARU DI 9to9?'])[1]/preceding::span[6]</value>
+      <webElementGuid>24de6026-524c-4b48-a036-7f1388500b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat email kamu'])[1]/preceding::span[6]</value>
+      <webElementGuid>4f9ba5e8-aa0d-4a43-9d80-06300a41b4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span/span</value>
+      <webElementGuid>2e18260b-30c8-4d78-a76f-a0ee96486448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checkout' or . = 'Checkout')]</value>
+      <webElementGuid>89996ef9-f3b6-44b7-a4fe-5d4e35cfdac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

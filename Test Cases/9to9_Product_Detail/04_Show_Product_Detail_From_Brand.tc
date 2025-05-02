@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_Show_Product_Detail_From_Brand</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8865304d-a521-4622-ae24-cfe22f001277</testCaseGuid>
+</TestCaseEntity>

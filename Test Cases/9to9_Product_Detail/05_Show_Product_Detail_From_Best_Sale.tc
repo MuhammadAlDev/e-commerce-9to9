@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_Show_Product_Detail_From_Best_Sale</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbc1ef99-3b0f-4141-bfea-168493781771</testCaseGuid>
+</TestCaseEntity>

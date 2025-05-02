@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Simpan</name>
+   <tag></tag>
+   <elementGuidId>532cc280-e874-4981-b4d8-32556e965842</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.jss1276.addressForm-saveAddress-btn.jss1120.MuiButton-containedPrimary > span.MuiButton-label > span.MuiTypography-root.jss910.jss913.jss919.jss924.jss905.jss915.MuiTypography-caption.MuiTypography-alignLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formAddressInputContainer']/form/div[14]/div/div/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Simpan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>850a1bcc-63db-4f91-8236-c455d5ba9747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss910 jss913 jss919 jss924 jss905 jss915 MuiTypography-caption MuiTypography-alignLeft</value>
+      <webElementGuid>1dea1394-a88b-492c-96dd-bf5e44d34c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan</value>
+      <webElementGuid>0fd60c5a-f642-4f86-87f6-03721fe97266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formAddressInputContainer&quot;)/form[1]/div[@class=&quot;jss1279&quot;]/div[@class=&quot;jss1121 jss1122&quot;]/div[@class=&quot;jss1124&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained jss1276 addressForm-saveAddress-btn jss1120 MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;MuiTypography-root jss910 jss913 jss919 jss924 jss905 jss915 MuiTypography-caption MuiTypography-alignLeft&quot;]</value>
+      <webElementGuid>9d12633c-740a-4e71-a6da-e73848d71476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formAddressInputContainer']/form/div[14]/div/div/button/span/span</value>
+      <webElementGuid>31987fa5-1980-4e5f-ac03-fc2c78f72479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::span[10]</value>
+      <webElementGuid>12f9dbe8-bfb8-40ef-9378-0412cda9a466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::span[10]</value>
+      <webElementGuid>4a1027e3-54aa-47da-a81e-e86aee6a0f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Highway'])[1]/preceding::span[5]</value>
+      <webElementGuid>4d59e31f-eec7-4638-b6e6-71fcc3b481ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>fba77d95-edba-47fb-9148-8fe27e3a0c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/button/span/span</value>
+      <webElementGuid>2024b11e-b281-4c46-8e36-2c37d6c469df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>a191f5dc-bb49-4aa0-b9f9-610929880085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

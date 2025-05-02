@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_Register_New_Account (without verification phone number)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebd19ad0-2815-45fb-abfc-b526fd3253b0</testCaseGuid>
+</TestCaseEntity>

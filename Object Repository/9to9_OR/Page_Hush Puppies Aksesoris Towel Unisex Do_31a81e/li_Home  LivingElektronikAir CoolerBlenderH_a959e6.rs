@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Home  LivingElektronikAir CoolerBlenderH_a959e6</name>
+   <tag></tag>
+   <elementGuidId>ee82bc2f-ae65-4d11-b9bd-60079773a7c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='nav']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Home &amp; Living&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e1673797-dc09-4f08-ad0d-46cf19ee0178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>8bfe730b-b6de-4781-ae1a-277fdb5b3a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jsx-1208550441 nav-item</value>
+      <webElementGuid>70f5a0b8-42f7-4d3d-8fbc-b8418029ac43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home &amp; LivingElektronikAir CoolerBlenderHair DryerJuicerLampu EmergencyMixerOvenPemanas AirPenggiling / ChopperRice CookerSetrikaSterilizerVacuum CleanerAlat DapurAksesoriBotol MinumGrillLunch BoxPanciPisauPrestoSpatulaWajanKamar TidurSarung BantalSelimut &amp; Bed CoverSprei Bed CoverAlat KebersihanAlat PelSabun Cuci PiringSabun Pembersih LantaiAlat Rumah TanggaPompa BanRaket NyamukKamar MandiHanduk MandiCutleriesFragranceKoper</value>
+      <webElementGuid>0a157b49-1e68-40c3-9084-427c3ed819ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav&quot;)/li[@class=&quot;jsx-1208550441 nav-item&quot;]</value>
+      <webElementGuid>d2ccee07-d8fc-49f3-b7dc-43257b03ed2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='nav']/li[2]</value>
+      <webElementGuid>b02040fc-ad2c-45de-820c-8874b5f36d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topi Pria'])[1]/following::li[2]</value>
+      <webElementGuid>1a5379a0-eb93-4110-aed5-827f0795aec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]</value>
+      <webElementGuid>cfe8088b-fda1-46a8-9785-bc4f34ade247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Home &amp; LivingElektronikAir CoolerBlenderHair DryerJuicerLampu EmergencyMixerOvenPemanas AirPenggiling / ChopperRice CookerSetrikaSterilizerVacuum CleanerAlat DapurAksesoriBotol MinumGrillLunch BoxPanciPisauPrestoSpatulaWajanKamar TidurSarung BantalSelimut &amp; Bed CoverSprei Bed CoverAlat KebersihanAlat PelSabun Cuci PiringSabun Pembersih LantaiAlat Rumah TanggaPompa BanRaket NyamukKamar MandiHanduk MandiCutleriesFragranceKoper' or . = 'Home &amp; LivingElektronikAir CoolerBlenderHair DryerJuicerLampu EmergencyMixerOvenPemanas AirPenggiling / ChopperRice CookerSetrikaSterilizerVacuum CleanerAlat DapurAksesoriBotol MinumGrillLunch BoxPanciPisauPrestoSpatulaWajanKamar TidurSarung BantalSelimut &amp; Bed CoverSprei Bed CoverAlat KebersihanAlat PelSabun Cuci PiringSabun Pembersih LantaiAlat Rumah TanggaPompa BanRaket NyamukKamar MandiHanduk MandiCutleriesFragranceKoper')]</value>
+      <webElementGuid>c62d052f-5fe3-4104-bb53-b132d8fe26ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

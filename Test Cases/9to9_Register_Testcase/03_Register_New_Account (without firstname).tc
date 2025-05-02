@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Register_New_Account (without firstname)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d5c1a74-50a3-4321-8fe9-3ef1fd5d4d66</testCaseGuid>
+</TestCaseEntity>
